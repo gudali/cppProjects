@@ -1,5 +1,6 @@
 ### Simple C++ Hello World using CMake  
-cd .../build/  
+mkdir build
+cd build
 cmake ..  
 make  
 ./demo World  
